@@ -4,9 +4,19 @@
 ![Static Badge](https://img.shields.io/badge/iOS-v15-blue)
 
 ## 🤔 What is CalendarKit?  
-You can easily implement your own customed calendar on your iOS project without any effort
+CalendarKit is a highly customizable and easy-to-use calendar framework for iOS projects. With CalendarKit, you can quickly integrate a fully functional calendar into your app, complete with custom styles, event handling, and a user-friendly interface. Designed for iOS v15 and above, CalendarKit is perfect for developers who want to add calendar functionality without spending hours on custom development.
 
-## 🔗 Eample Code 
+## 📦 Installation
+
+### Swift Package Manager
+To integrate CalendarKit into your Xcode project using Swift Package Manager, add the following to your `Package.swift` file:
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/insub4067/CalendarKit.git", from: "1.0.0")
+]
+
+## 🔗 Example Code 
 [Directory](https://github.com/insub4067/CalendarKit/tree/main/Example)
 
 ## 📱 Example Result
