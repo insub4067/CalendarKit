@@ -16,7 +16,7 @@ struct MainTab: View {
                 }
             WidgetExample()
                 .tabItem {
-                    Label("Widget", image: "calendar")
+                    Label("Widget", systemImage: "calendar")
                 }
         }
     }
