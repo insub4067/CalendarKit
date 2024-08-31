@@ -1,5 +1,8 @@
 # 📆 CalendarKit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Static Badge](https://img.shields.io/badge/iOS-v15-blue)
+
 ## 🤔 What is CalendarKit?  
 You can easily implement your own customed calendar on your iOS project without any effort
 
