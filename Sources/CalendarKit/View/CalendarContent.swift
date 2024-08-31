@@ -16,7 +16,7 @@ public struct CalendarContent<Content: View>: View {
     
     private let getDates = GetDateComponentListByMonthOffsetUseCase()
     
-    init(
+    public init(
         offset: Int,
         vSpacing: CGFloat = 12,
         @ViewBuilder _ cellBuilder: @escaping (DateComponent) -> Content
