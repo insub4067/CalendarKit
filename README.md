@@ -20,6 +20,6 @@ To integrate CalendarKit into your Xcode project using Swift Package Manager, ad
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/insub4067/CalendarKit.git", from: "1.0.0")
+    .package(url: "https://github.com/insub4067/CalendarKit.git", from: "1.0.5")
 ]
 ```
