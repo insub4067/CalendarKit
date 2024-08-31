@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import CalendarKit
 
 struct WidgetExample: View {
     
