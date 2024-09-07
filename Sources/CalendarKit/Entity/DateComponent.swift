@@ -93,7 +93,9 @@ extension DateComponent: Equatable {
         lhs.year == rhs.year &&
         lhs.month == rhs.month &&
         lhs.day == rhs.day
-     }
+    }
+    
+    public static let now = Date.now.mapToComponent
 }
 
 
